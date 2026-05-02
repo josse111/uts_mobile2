@@ -15,6 +15,10 @@
 *   **Desain Responsif:** Tampilan yang optimal baik di perangkat mobile maupun desktop.
 *   **Penyimpanan Lokal/Cloud:** (Sesuaikan: misal menggunakan SQLite, Room, atau Firebase).
 
+## List Clickup Yang saya gunakan
+<img width="1208" height="548" alt="Screenshot 2026-05-02 193550" src="https://github.com/user-attachments/assets/2ea60d13-0d71-457e-9374-0b334112614c" />
+
+
 ## 🛠️ Teknologi yang Digunakan
 
 Aplikasi ini dibangun menggunakan teknologi berikut:
@@ -24,13 +28,9 @@ Aplikasi ini dibangun menggunakan teknologi berikut:
 *   **Database:** [Contoh: SQLite / MySQL]
 *   **UI/UX:** XML / Bootstrap / Tailwind CSS
 
-## 📸 Tampilan Aplikasi
+## 📸 Tampilan Aplikasi Antar Muka 
+<img width="1123" height="772" alt="Screenshot 2026-05-02 193151" src="https://github.com/user-attachments/assets/af083767-386b-4e90-b91a-2bd30c11a2f0" />
 
-| Beranda | Tambah Tugas |
-|---|---|
-| !<img width="738" height="1600" alt="WhatsApp Image 2026-05-02 at 19 26 29 (1)" src="https://github.com/user-attachments/assets/f60f99c0-85f4-4121-a323-d9893f3be0c4" />
- | !<img width="1080" height="2340" alt="WhatsApp Image 2026-05-02 at 19 26 29" src="https://github.com/user-attachments/assets/de557d6a-b937-4bb3-a9f5-5dc232d9d324" />
- |
 
 *(Tips: Ganti link gambar di atas dengan screenshot asli aplikasi Anda yang disimpan di folder `screenshots/`)*
 
